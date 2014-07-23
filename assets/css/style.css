@@ -1,0 +1,36 @@
+.headline-selection-container {
+    float: left;
+    display: inline;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.clear-div {
+    clear: both;
+}
+
+#headline-radio-one-settings, #headline-radio-two-settings, #headline-radio-three-settings {
+    display: none; 
+}
+
+.pane-choice-container {
+    margin-bottom: 10px;
+}
+
+.pane-choice-container label {
+    font-weight: bold;
+    color: #666;
+}
+
+.headline-article-select-container {
+    padding-bottom: 20px; 
+    border-bottom: 1px solid #666;
+    width: 40%;
+}
+
+#update-status {
+    padding: 6px 10px;
+    background-color: green;
+    color: white;
+    width: 700px;
+}
